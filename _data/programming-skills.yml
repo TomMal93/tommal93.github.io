@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
+- name: dotnecik
   percentage: 90
-  color: danger
+  color: success
 
-- name: Go
+- name: Si szard
+  percentage: 100
+  color: success
+
+- name: SQL`son
   percentage: 80
-  color:
+  color: info
+    
+- name: Dżejesy
+  percentage: 30
+  color: 	warning
 
-- name: Python
-  percentage: 70
-  color: secondary
+- name: Pazerność
+  percentage: 100
+  color: 	info
+  
+- name: Uprzejmość
+  percentage: 100
+  color: 	success

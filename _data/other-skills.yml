@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Kochać Natalkę
+  percentage: 100
+  color: danger
 
-- name: Adobe Illustrator
+- name: Dźwigać sztangle
+  percentage: 100
+  color: success
+
+- name: Spać
   percentage: 90
+  color: info
+  
+- name: Chrapać
+  percentage: 10
+  color: info
+    
+- name: Wygrywać 510 zł
+  percentage: 100
   color: success

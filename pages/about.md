@@ -5,10 +5,12 @@ permalink: /about/
 weight: 2
 ---
 
-# **About Me**
+# **Kilka słów o mnie**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Cześć i chwała rodzajowi ludzkiemu. <br>
+Jestem **{{ site.author.name }}** :wave:. Jestem człowiekiem, który posiada ręce i nogi. <br>
+Uwielbiam oddychać, spożywać pokarm i inne takie. Przybyłem tutaj w celu replikacji mojego DiEnEj. <br>
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
