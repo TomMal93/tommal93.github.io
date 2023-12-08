@@ -1,19 +1,19 @@
 ---
 ---
+
 table {
     border-collapse: collapse;
     width: 100%;
-    background-color: #dc0909;
 }
 
 td {
-    padding: 8px;
-    text-align: left;
-    border-bottom: 1px solid #ddd; 
+    border: none
 }
 
-tr:nth-child(even) {
-    background-color: #9c06068f;
+.small-th {
+    text-align: center; 
+    background-color:#0056b3; 
+    border: none;
 }
 
 @import "portfolYOU";
