@@ -3,19 +3,26 @@
 table {
     border-collapse: collapse;
     width: 100%;
-    background-color: #f01414;
-
-    td {
-        padding: 8px;
-        border: none;
-    }
+    background-color: #172eda;
     
-    th {
-        text-align: center; 
-        background-color:#0056b3;
+    tr{
+        
+        td {
+            padding: 8px;
+            border: none;
+            text-align: center;
+            background-color: #172eda;
+
+        }
+        
+    
+        th {
+            text-align: center; 
+            background-color:#0056b3;
+            color: #0056b3
+        }
     }
 }
-
 
 
 @import "portfolYOU";
