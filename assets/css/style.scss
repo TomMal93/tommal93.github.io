@@ -6,15 +6,18 @@
 //     width: 100%;
 // }
 
-.table-row-content {
+td {
     border: none
 }
 
-.small-th {
+
+th {
     text-align: center; 
-    background-color:#0056b3; 
     border: none;
 }
+// .small-th {
+//     background-color:#0056b3; 
+// }
 
 @import "portfolYOU";
 
