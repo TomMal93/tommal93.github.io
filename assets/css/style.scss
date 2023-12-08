@@ -4,16 +4,18 @@ table {
     border-collapse: collapse;
     width: 100%;
     background-color: #a33a3a;
+
+    td {
+        padding: 8px;
+        border: none;
+    }
+    
+    th {
+        text-align: center; 
+        background-color:"#0056b3";
+    }
 }
 
-td {
-    padding: 8px;
-    border: none;
-}
 
-th {
-    text-align: center; 
-    background-color:"#0056b3";
-}
 
 @import "portfolYOU";
