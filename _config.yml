@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Stary Tom
-  image             : https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1f8fcead3b_fdcad5ca.png
+  image             : ..\assets\images\main-logo.PNG
 # behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
