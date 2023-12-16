@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : tommal93.github.io
 description         : >-
-                      <p style="align: center;">Pod przykrywką bloga programistycznego prowadzę tutaj swój notatnik.</p>
-                      <br>
-                      <p style="align: center;">W tym miejcu natrafisz głównie na treści programistyczne, ale też i z zakresu szeroko pojętej optymalizacji życia.</p>
-                      <p style="align: center;">Dołącz do mnie w tej podróży, aby razem odkrywać, jak uczynić życie prostszym i bardziej satysfakcjonującym.</p>
+                      <p style="align: center; margin-bottom: 4px;">Pod przykrywką bloga programistycznego prowadzę tutaj swój notatnik.</p>
+                      <p style="align: center; margin-bottom: 4px;">W tym miejcu natrafisz głównie na treści programistyczne, ale też i z zakresu szeroko pojętej optymalizacji życia.</p>
+                      <p style="align: center; margin-bottom: 4px;">Dołącz do mnie w tej podróży, aby razem odkrywać, jak uczynić życie prostszym i bardziej satysfakcjonującym.</p>
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : tommal93/tommal93.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
