@@ -85,14 +85,10 @@ hr {
 
 .article_two_images_inline--container{
     display: flex !important;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
 
     border: 2px solid orange;
     border-radius: 10px;
     animation: glowAnimation 2s ease-in-out infinite;
-    max-width: 70% !important;
 }
 
 @keyframes glowAnimation_green {
