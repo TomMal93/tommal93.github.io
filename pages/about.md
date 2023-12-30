@@ -11,11 +11,11 @@ Cześć, <br>
 nazywam się **{{ site.author.name }}** :wave:. <br> 
 Jestem entuzjastą technologii, który każdego dnia mierzy się z cyfrowymi wyzwaniami przekuwając je w efektywne rozwiązania. :man_technologist: <br>
 
-W mojej zawodowej przygodzie z programowaniem, .NET jest fundamentem, na którym buduję swoją karierę. 🔨 <br>
-To właśnie ta platforma jest moim kompasem w eksploracji nowych technologicznych możliwości, stanowiąc trwały punkt odniesienia w mojej ciągłej podróży po świecie innowacji i rozwoju. 🧭🌐 <br>
+W mojej zawodowej przygodzie z programowaniem, .NET jest fundamentem, na którym buduję swoją karierę. <br>
+To właśnie ta platforma jest moim kompasem w eksploracji nowych technologicznych możliwości, stanowiąc trwały punkt odniesienia w mojej ciągłej podróży po świecie innowacji i rozwoju. 🚀🌌 <br>
 
 Mimo że moja teoretyczna wiedza koncentruje się na backendzie, praktyczne doświadczenie zawodowe otworzyło przede mną drzwi do świata full-stack. <br> 
-Pozwala mi to na głębokie zaangażowanie we wszystkie etapy tworzenia projektu, od zaplecza technicznego aż po interfejs użytkownika. <br>
+Pozwala mi to na głębokie zaangażowanie we wszystkie etapy tworzenia projektu, od zaplecza technicznego aż po interfejs użytkownika. 🔥🔥 <br>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
