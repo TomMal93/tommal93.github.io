@@ -93,19 +93,19 @@ hr {
 
 @keyframes glowAnimation_green {
     0%, 100% {
-        box-shadow: 0 0 15px #034f03;
+        box-shadow: 0 0 15px #76fc76be;;
     }
     50% {
-        box-shadow: 0 0 30px #034f03;
+        box-shadow: 0 0 30px #76fc76be;;
     }
 }
 
 @keyframes glowAnimation_red {
     0%, 100% {
-        box-shadow: 0 0 15px rgba(176, 4, 4, 0.788);
+        box-shadow: 0 0 15px rgba(243, 75, 75, 0.822);
     }
     50% {
-        box-shadow: 0 0 30px rgba(176, 4, 4, 0.788);
+        box-shadow: 0 0 30px rgba(243, 75, 75, 0.822);
     }
 }
 
