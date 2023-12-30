@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : tommal93.github.io
 description         : >-
-                      <div class="logo-description--container">
+                      <div class="logo-description--container zoomIn">
                         <p>Pod przykrywką bloga programistycznego prowadzę tutaj swój notatnik.</p>
                         <hr style="margin: 6px; opacity: 0.3">
                         <p>W tym miejcu natrafisz głównie na treści programistyczne, ale też i z zakresu szeroko pojętej optymalizacji życia.</p>
