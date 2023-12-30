@@ -31,11 +31,11 @@ hr {
 .logo-description--container {
     text-align: center;
     opacity: 0; 
-    border: 5px solid orange;
+    border: 2px solid orange;
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
-    animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite;
+    animation: fadeInAnimation 3s ease-in forwards, glowAnimation 2s ease-in-out infinite;
 }
 
 @keyframes fadeInAnimation {
@@ -54,7 +54,7 @@ hr {
 }
 
 .circle-image {
-    animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite;
+    animation: fadeInAnimation 3s ease-in forwards, glowAnimation 2s ease-in-out infinite;
 }
 
 @import "portfolYOU";
