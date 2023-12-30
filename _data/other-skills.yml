@@ -1,18 +1,18 @@
 - name: Dzielenie się wiedzą
   percentage: 100
   color: 	info
-    
-- name: Dyplomatyczność
-  percentage: 100
-  color: 	danger
 
 - name: Pozytywne podejście
   percentage: 100
   color: 	success
     
-- name: Konkretność na daily
+- name: Smalltalk'owe pogaduszki w pracy
+  percentage: 3
+  color: 	danger
+
+- name: Bezkonfliktowość
   percentage: 100
-  color: 	warning
+  color: 	info
 
 - name: Specjalizacja w optymalizacji spożycia kawy dla maksymalnej wydajności kodowania
   percentage: 100
