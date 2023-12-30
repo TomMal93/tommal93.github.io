@@ -30,25 +30,12 @@ hr {
 
 .logo-description--container {
     text-align: center;
-    opacity: 0; 
     border: 2px solid orange;
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
     animation: glowAnimation 4s ease-in-out infinite;
 }
-
-// @keyframes fadeInAnimation {
-//     from {
-//         opacity: 0;
-//         -webkit-transform: scale3d(0.3, 0.3, 0.3);
-//         transform: scale3d(0.3, 0.3, 0.3);
-//       }
-    
-//       50% {
-//         opacity: 1;
-//       }
-// }
 
 @keyframes glowAnimation {
     0%, 100% {
@@ -69,8 +56,8 @@ hr {
 // }
 
 .zoomIn {
-    -webkit-animation-name: zoomIn;
-    animation-name: zoomIn;
+    -webkit-animation: zoomIn 1s;
+    animation: zoomIn 1s; 
     animation-delay: 0.2s;
 }
 
