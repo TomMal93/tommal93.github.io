@@ -60,7 +60,21 @@ hr {
 }
 
 .article_image--container {
-    border: 1px solid orange;
+    border: 2px solid orange;
+    border-radius: 25px;
+    animation: glowAnimation 2s ease-in-out infinite;
+    max-width: 60% !important;
+}
+
+.article_table--container__green {
+    border: 2px solid green;
+    border-radius: 25px;
+    animation: glowAnimation 2s ease-in-out infinite;
+    max-width: 60% !important;
+}
+
+.article_table--container__red {
+    border: 2px solid red;
     border-radius: 25px;
     animation: glowAnimation 2s ease-in-out infinite;
     max-width: 60% !important;
