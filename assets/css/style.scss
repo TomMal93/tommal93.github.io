@@ -36,7 +36,7 @@ hr {
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
-    animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite, slideInUp;
+    animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite;
 }
 
 @keyframes fadeInAnimation {
@@ -52,6 +52,10 @@ hr {
     50% {
         box-shadow: 0 0 20px orange;
     }
+}
+
+.circle-image {
+    animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite;
 }
 
 @import "portfolYOU";
