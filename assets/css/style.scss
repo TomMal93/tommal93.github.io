@@ -42,7 +42,6 @@ hr {
     padding: 10px;
     border-radius: 25px;
     animation: glowAnimation 4s ease-in-out infinite, zoomIn 1s;
-    animation-delay: 0.5s !important;
 
 }
 
@@ -58,7 +57,7 @@ hr {
 
 .circle-image {
     animation: glowAnimation 4s ease-in-out infinite, zoomIn 1s;
-    animation-delay: 2s !important;
+    animation-delay: 0s !important;
 }
 
 
