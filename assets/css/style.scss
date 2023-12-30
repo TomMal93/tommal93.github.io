@@ -39,9 +39,15 @@ hr {
 }
 
 @keyframes fadeInAnimation {
-    to {
+    from {
+        opacity: 0;
+        -webkit-transform: scale3d(0.3, 0.3, 0.3);
+        transform: scale3d(0.3, 0.3, 0.3);
+      }
+    
+      50% {
         opacity: 1;
-    }
+      }
 }
 
 @keyframes glowAnimation {
@@ -54,12 +60,42 @@ hr {
 }
 
 .circle-image {
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    object-fit: cover;
-    object-position: center;
     animation: fadeInAnimation 2s ease-in forwards, glowAnimation 4s ease-in-out infinite;
 }
 
+
+// .animated {
+
+// }
+
+// .zoomIn {
+//     -webkit-animation-name: zoomIn;
+//     animation-name: zoomIn;
+// }
+
+
+// @keyframes zoomIn {
+//     from {
+//       opacity: 0;
+//       -webkit-transform: scale3d(0.3, 0.3, 0.3);
+//       transform: scale3d(0.3, 0.3, 0.3);
+//     }
+  
+//     50% {
+//       opacity: 1;
+//     }
+// }
+
+// @-webkit-keyframes zoomIn {
+//     from {
+//       opacity: 0;
+//       -webkit-transform: scale3d(0.3, 0.3, 0.3);
+//       transform: scale3d(0.3, 0.3, 0.3);
+//     }
+  
+//     50% {
+//       opacity: 1;
+//     }
+// }
+  
 @import "portfolYOU";
