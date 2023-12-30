@@ -30,30 +30,22 @@ hr {
 }
 
 .logo-description--border{
+    border: 1px solid orangered;
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
-    box-shadow: 0 0 50px 15px orange;
-}
-
-
-.highlight-box {
-    padding: 20px;
-    border: 1px solid #ccc;
-    margin: 20px;
-    text-align: center;
     animation: glowAnimation 2s ease-in-out infinite;
 }
 
 @keyframes glowAnimation {
     0% {
-        box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        box-shadow: 0 0 10px rgba(255, 69, 0, 0.8);
     }
     50% {
         box-shadow: 0 0 20px rgba(255, 255, 255, 0);
     }
     100% {
-        box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+        box-shadow: 0 0 10px rgba(255, 69, 0, 0.8);
     }
 }
 
