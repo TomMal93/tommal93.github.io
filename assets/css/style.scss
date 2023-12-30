@@ -24,13 +24,12 @@ hr {
 }
 
 .logo-description {
-    text-align: center; 
     margin-bottom: 4px; 
-    // color: rgba(255,255,255,0.5);
 }
 
 
-.logo-description--border {
+.logo-description--container {
+    text-align: center;
     opacity: 0; 
     border: 5px solid orange;
     margin: 6px; 

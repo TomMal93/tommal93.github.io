@@ -1,11 +1,11 @@
 ### Site Settings ###
 title               : tommal93.github.io
 description         : >-
-                      <div class="logo-description--border">
-                        <p class="logo-description">Pod przykrywką bloga programistycznego prowadzę tutaj swój notatnik.</p>
-                        <p class="logo-description">W tym miejcu natrafisz głównie na treści programistyczne, ale też i z zakresu szeroko pojętej optymalizacji życia.</p>
+                      <div class="logo-description--container">
+                        <p>Pod przykrywką bloga programistycznego prowadzę tutaj swój notatnik.</p>
+                        <p>W tym miejcu natrafisz głównie na treści programistyczne, ale też i z zakresu szeroko pojętej optymalizacji życia.</p>
                         <hr style="margin: 6px;">
-                        <p class="logo-description">Dołącz do mnie w tej podróży, aby razem odkrywać, jak uczynić życie prostszym oraz bardziej satysfakcjonującym.</p>
+                        <p>Dołącz do mnie w tej podróży, aby razem odkrywać, jak uczynić życie prostszym oraz bardziej satysfakcjonującym.</p>
                       </div>
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
