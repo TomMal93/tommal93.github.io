@@ -1,10 +1,10 @@
-- name: Dzielenie się wiedzą
-  percentage: 100
-  color: 	info
-
 - name: Pozytywne podejście
   percentage: 100
   color: 	success
+
+- name: Dzielenie się wiedzą
+  percentage: 100
+  color: 	info
     
 - name: Smalltalk'owe pogaduszki w pracy
   percentage: 3
@@ -12,6 +12,10 @@
 
 - name: Bezkonfliktowość
   percentage: 100
+  color: 	info
+
+- name: Wkrętka w narzędzia AI
+  percentage: 80
   color: 	info
 
 - name: Specjalizacja w optymalizacji spożycia kawy dla maksymalnej wydajności kodowania

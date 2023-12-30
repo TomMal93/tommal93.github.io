@@ -17,10 +17,14 @@ To właśnie ta platforma jest moim kompasem w eksploracji nowych technologiczny
 Mimo że moja teoretyczna wiedza koncentruje się na backendzie, praktyczne doświadczenie zawodowe otworzyło przede mną drzwi do świata full-stack. <br> 
 Pozwala mi to na głębokie zaangażowanie we wszystkie etapy tworzenia projektu, od zaplecza technicznego aż po interfejs użytkownika. 🔥🔥 <br>
 
+<hr>
+
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
+
+<hr>
 
 <div class="row">
 {% include about/timeline.html %}
