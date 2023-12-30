@@ -37,7 +37,8 @@ hr {
     padding: 10px;
     border-radius: 25px;
     animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite;
-
+    -webkit-animation-name: slideInUp;
+    animation-name: slideInUp;
 }
 
 @keyframes fadeInAnimation {
