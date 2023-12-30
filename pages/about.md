@@ -7,11 +7,6 @@ weight: 2
 
 # **Kilka słów o mnie**
 
-Cześć i chwała rodzajowi ludzkiemu. <br>
-Jestem **{{ site.author.name }}** :wave:. Jestem człowiekiem, który posiada ręce i nogi. <br>
-Uwielbiam oddychać, spożywać pokarm i inne takie. Przybyłem tutaj w celu replikacji mojego DiEnEj. <br>
-
-
 Cześć, <br>
 nazywam się **{{ site.author.name }}** :wave:. Jestem entuzjastą technologii, który każdego dnia mierzy się z cyfrowymi wyzwaniami przekuwając je w efektywne rozwiązania. <br><br>
 

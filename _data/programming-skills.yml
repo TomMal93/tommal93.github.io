@@ -1,23 +1,35 @@
-- name: dotnecik
-  percentage: 90
-  color: success
-
-- name: Si szard
+- name: Umiłowanie do C#
   percentage: 100
   color: success
 
-- name: SQL`son
-  percentage: 80
+- name: Chęć poznawania Blazora
+  percentage: 99.9
+  color: success
+
+- name: Dłubanie przy frontendzie
+  percentage: 55
   color: info
     
-- name: Dżejesy
-  percentage: 30
+- name: Dowożenie zadań
+  percentage: 100
   color: 	warning
 
-- name: Pazerność
+- name: Specjalizacja w optymalizacji spożycia kawy dla maksymalnej wydajności kodowania
   percentage: 100
   color: 	info
   
-- name: Uprzejmość
+- name: Miłość do optymalizacji świata
   percentage: 100
+  color: 	success
+    
+- name: Dyplomatyczność
+  percentage: 100
+  color: 	success
+
+- name: Pozytywne podejście
+  percentage: 100
+  color: 	success
+    
+- name: Obrażanie się na zwrotki w MR
+  percentage: 0
   color: 	success
