@@ -69,17 +69,32 @@ hr {
 .article_table--container__green {
     border: 2px solid green;
     border-radius: 25px;
-    animation: glowAnimation 2s ease-in-out infinite;
-    max-width: 60% !important;
+    animation: glowAnimation_green 2s ease-in-out infinite;
 }
 
 .article_table--container__red {
     border: 2px solid red;
     border-radius: 25px;
-    animation: glowAnimation 2s ease-in-out infinite;
-    max-width: 60% !important;
+    animation: glowAnimation_red 2s ease-in-out infinite;
 }
 
+@keyframes glowAnimation_green {
+    0%, 100% {
+        box-shadow: 0 0 10px green;
+    }
+    50% {
+        box-shadow: 0 0 20px green;
+    }
+}
+
+@keyframes glowAnimation_red {
+    0%, 100% {
+        box-shadow: 0 0 10px red;
+    }
+    50% {
+        box-shadow: 0 0 20px red;
+    }
+}
 
 // .animated {
 
