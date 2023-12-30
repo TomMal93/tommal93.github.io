@@ -41,7 +41,7 @@ hr {
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
-    animation: glowAnimation 4s ease-in-out infinite, zoomIn 1s;
+    animation: glowAnimation 4s ease-in-out infinite, fadeInUp;
 
 }
 
@@ -71,6 +71,19 @@ hr {
 //     animation-delay: 0.5;
 // }
 
+@keyframes fadeInUp {
+    from {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 100%, 0);
+      transform: translate3d(0, 100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+  }
 
 @keyframes zoomIn {
     from {
