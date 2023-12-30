@@ -4,32 +4,16 @@
 
 - name: Chęć poznawania Blazora
   percentage: 99.9
-  color: success
-
-- name: Dłubanie przy frontendzie
-  percentage: 55
   color: info
     
 - name: Dowożenie zadań
   percentage: 100
-  color: 	warning
+  color: 	danger
 
-- name: Specjalizacja w optymalizacji spożycia kawy dla maksymalnej wydajności kodowania
-  percentage: 100
-  color: 	info
-  
-- name: Miłość do optymalizacji świata
-  percentage: 100
-  color: 	success
-    
-- name: Dyplomatyczność
-  percentage: 100
-  color: 	success
-
-- name: Pozytywne podejście
-  percentage: 100
-  color: 	success
-    
 - name: Obrażanie się na zwrotki w MR
   percentage: 0
-  color: 	success
+  color: 	warning
+
+- name: Zamiłowanie do refactoringu
+  percentage: 100
+  color: 	info
