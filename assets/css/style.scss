@@ -23,6 +23,13 @@ hr {
     background-color: orange !important;
 }
 
+
+.hr--main_text{
+    height: 1px; 
+    background-color: orange !important;
+    opacity: 0.3;
+}
+
 .logo-description {
     margin-bottom: 4px; 
 }
@@ -34,7 +41,7 @@ hr {
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
-    animation: glowAnimation 4s ease-in-out infinite;
+    animation: glowAnimation 4s ease-in-out infinite, zoomIn 1s;
 }
 
 @keyframes glowAnimation {
@@ -47,7 +54,7 @@ hr {
 }
 
 .circle-image {
-    animation: fadeInAnimation 2s ease-in forwards, glowAnimation 4s ease-in-out infinite;
+    animation: glowAnimation 4s ease-in-out infinite;
 }
 
 
@@ -55,11 +62,11 @@ hr {
 
 // }
 
-.zoomIn {
-    -webkit-animation: zoomIn 1s;
-    animation: zoomIn 1s; 
-    animation-delay: 0.2s;
-}
+// .zoomIn {
+//     -webkit-animation: zoomIn 1s;
+//     animation: zoomIn 1s; 
+//     animation-delay: 0.5;
+// }
 
 
 @keyframes zoomIn {
