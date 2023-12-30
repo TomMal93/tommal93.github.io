@@ -1,7 +1,3 @@
-- name: Specjalizacja w optymalizacji spożycia kawy dla maksymalnej wydajności kodowania
-  percentage: 100
-  color: 	info
-  
 - name: Dzielenie się wiedzą
   percentage: 100
   color: 	info
@@ -16,4 +12,8 @@
     
 - name: Konkretność na daily
   percentage: 100
-  color: 	success
+  color: 	warning
+
+- name: Specjalizacja w optymalizacji spożycia kawy dla maksymalnej wydajności kodowania
+  percentage: 100
+  color: 	warning
