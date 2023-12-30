@@ -29,32 +29,29 @@ hr {
     // color: rgba(255,255,255,0.5);
 }
 
-.logo-description--border{
+
+.logo-description--border {
     opacity: 0; 
     border: 5px solid orange;
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
-    animation: glowAnimation 2s ease-in-out infinite;
-    animation: fadeInAnimation 1s ease-in forwards; 
+    animation: fadeInAnimation 1s ease-in forwards, glowAnimation 2s ease-in-out infinite;
 
-}
-
-@keyframes glowAnimation {
-    0% {
-        box-shadow: 0 0 10px rgba(255, 69, 0, 0.8);
-    }
-    50% {
-        box-shadow: 0 0 20px rgba(255, 255, 255, 0);
-    }
-    100% {
-        box-shadow: 0 0 10px rgba(255, 69, 0, 0.8);
-    }
 }
 
 @keyframes fadeInAnimation {
     to {
         opacity: 1;
+    }
+}
+
+@keyframes glowAnimation {
+    0%, 100% {
+        box-shadow: 0 0 10px orange;
+    }
+    50% {
+        box-shadow: 0 0 20px orange;
     }
 }
 
