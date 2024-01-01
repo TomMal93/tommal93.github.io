@@ -1,0 +1,17 @@
+- name: Pozytywne podejście
+  percentage: 100
+  color: 	success
+
+- name: Dzielenie się wiedzą
+  percentage: 100
+  color: 	info
+    
+- name: Bezkonfliktowość
+  percentage: 100
+  color: 	info
+
+- name: Obrażanie się na zwrotki w MR'kach
+  percentage: 0
+  color: 	warning
+
+
