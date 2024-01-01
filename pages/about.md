@@ -24,6 +24,8 @@ Pozwala mi to na głębokie zaangażowanie we wszystkie etapy tworzenia projektu
     {% include about/skills.html title="Umiejętności miękkie" source=site.data.social-skills %}
 </div>
 
+<hr class="hr--main_text">
+
 <div class="row">
     {% include about/skills.html title="Inne umiejętności" source=site.data.other-skills %}
 </div>
