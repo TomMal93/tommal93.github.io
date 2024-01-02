@@ -3,19 +3,19 @@
 /* Table Styling */
 table tr td {
     padding: 8px 0 8px 10px;
-    border: none;
-    vertical-align: top;
+    border: none !important;
+    vertical-align: top !important;
 }
 
 /* Heading Colors */
 h4, h5, h6 {
-    color: #0a78ee; 
+    color: #0a78ee !important; 
 }
 
 /* Horizontal Rule Styling */
 hr {
     height: 1px; 
-    background-color: #ffa500;
+    background-color: #ffa500 !important;
 }
 
 .hr--main_text {
