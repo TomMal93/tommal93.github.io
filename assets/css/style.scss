@@ -15,18 +15,18 @@ h4, h5, h6 {
 /* Horizontal Rule Styling */
 hr {
     height: 1px; 
-    background-color: orange;
+    background-color: #ffa500;
 }
 
 .hr--main_text {
     height: 1px; 
-    background-color: orange;
+    background-color: #ffa500;
     opacity: 0.3;
 }
 
 /* Common Styles for Containers */
 .container-glow {
-    border: 2px solid orange;
+    border: 2px solid #ffa500;
     animation: glowAnimation 2s ease-in-out infinite;
 }
 
@@ -82,8 +82,8 @@ ul {
 
 // Keyframes
 @keyframes glowAnimation {
-    0%, 100% { box-shadow: 0 0 10px orange; }
-    50% { box-shadow: 0 0 20px orange; }
+    0%, 100% { box-shadow: 0 0 10px #ffa500; }
+    50% { box-shadow: 0 0 20px #ffa500; }
 }
 
 @keyframes glowAnimationGreen {
