@@ -99,6 +99,15 @@ ul {
     list-style-type: none;
 }  
 
+@media screen and (max-width: 600px) {
+    .article_image--container {
+        border: 2px solid orange;
+        border-radius: 25px;
+        animation: glowAnimation 2s ease-in-out infinite;
+        max-width: 100% !important;
+    }
+}
+
 @keyframes glowAnimation_green {
     0%, 100% {
         box-shadow: 0 0 15px #76fc76be;;
