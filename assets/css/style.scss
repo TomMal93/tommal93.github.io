@@ -1,31 +1,5 @@
 ---
 ---
-
-@keyframes glowAnimation {
-    0%, 100% { box-shadow: 0 0 10px orange; }
-    50% { box-shadow: 0 0 20px orange; }
-}
-
-@keyframes glowAnimationGreen {
-    0%, 100% { box-shadow: 0 0 15px #76fc76be; }
-    50% { box-shadow: 0 0 30px #76fc76be; }
-}
-
-@keyframes glowAnimationRed {
-    0%, 100% { box-shadow: 0 0 15px rgba(243, 75, 75, 0.822); }
-    50% { box-shadow: 0 0 30px rgba(243, 75, 75, 0.822); }
-}
-
-@keyframes fadeInUp {
-    from { opacity: 0; transform: translate3d(0, 100%, 0); }
-    to { opacity: 1; transform: translate3d(0, 0, 0); }
-}
-
-@keyframes zoomIn {
-    from { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }
-    50% { opacity: 1; }
-}
-
 /* Table Styling */
 table tr td {
     padding: 8px 0 8px 10px;
@@ -98,5 +72,32 @@ hr {
 ul {
     list-style-type: none;
 }
+
+// Keyframes
+@keyframes glowAnimation {
+    0%, 100% { box-shadow: 0 0 10px orange; }
+    50% { box-shadow: 0 0 20px orange; }
+}
+
+@keyframes glowAnimationGreen {
+    0%, 100% { box-shadow: 0 0 15px #76fc76be; }
+    50% { box-shadow: 0 0 30px #76fc76be; }
+}
+
+@keyframes glowAnimationRed {
+    0%, 100% { box-shadow: 0 0 15px rgba(243, 75, 75, 0.822); }
+    50% { box-shadow: 0 0 30px rgba(243, 75, 75, 0.822); }
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translate3d(0, 100%, 0); }
+    to { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+@keyframes zoomIn {
+    from { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }
+    50% { opacity: 1; }
+}
+
 
 @import "portfolYOU";
