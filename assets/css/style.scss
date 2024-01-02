@@ -53,6 +53,7 @@ hr {
     text-align: center;
     margin: 6px; 
     border-radius: 25px;
+    max-width: 60% !important;
 }
 
 .article_two_images_inline--container{
@@ -61,6 +62,7 @@ hr {
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
+    max-width: 60% !important;
 }
 
 .circle-image {
@@ -71,6 +73,10 @@ hr {
 /* Responsive Design */
 @media screen and (max-width: 600px) {
     .article_image--container {
+        max-width: 100% !important;
+    }
+
+    .article_two_images_inline--container {
         max-width: 100% !important;
     }
 }
