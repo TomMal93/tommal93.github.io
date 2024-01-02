@@ -41,19 +41,25 @@ hr {
 }
 
 /* Logo and Image Styles */
-.logo-description--container, .article_image--container, .article_two_images_inline--container {
+.logo-description--container {
     text-align: center;
     margin: 6px; 
     padding: 10px;
     border-radius: 25px;
 }
 
+.article_image--container {
+    text-align: center;
+    margin: 6px; 
+    border-radius: 25px;
+}
+
 .article_two_images_inline--container{
     display: flex !important;
-    // text-align: center;
-    // margin: 6px; 
-    // padding: 10px;
-    // border-radius: 25px;
+    text-align: center;
+    margin: 6px; 
+    padding: 10px;
+    border-radius: 25px;
 }
 
 .circle-image {
