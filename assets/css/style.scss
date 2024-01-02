@@ -95,9 +95,9 @@ hr {
     animation: glowAnimation 2s ease-in-out infinite;
 }
 
-.custom-list {
+ul {
     list-style-type: none;
-  }  
+}  
 
 @keyframes glowAnimation_green {
     0%, 100% {
