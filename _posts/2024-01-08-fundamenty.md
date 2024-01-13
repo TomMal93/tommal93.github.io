@@ -1,6 +1,6 @@
 ---
 title: Podstawy postawy
-tags: [Programowanie, Higiena pracy]
+tags: [Higiena pracy, Algorytm dobrego samopoczucia, i następne z serii]
 style: fill
 color: success 
 description:  Koncentracja, stoicyzm i żywienie w służbie programisty.
@@ -10,11 +10,10 @@ description:  Koncentracja, stoicyzm i żywienie w służbie programisty.
 
 Który to już raz wstałeś zbyt późno, zaczynając pasmo wiecznych niedoczasów? 
 
-W pośpiechu przebiegasz przez mieszkanie, próbując uporać się z poranną rutyną, a Twoje myśli krążą wyłącznie wokół tego, jak bardzo spóźnisz się do pracy. <br>
+W pośpiechu przebiegasz przez mieszkanie, próbując uporać się z poranną rutyną, a Twoje myśli krążą wyłącznie wokół tego, jak bardzo spóźnisz się do pracy.
 W tej gorączkowej bieganinie, często pierwszą ofiarą staje się śniadanie, zbyt często zastępowane kubkiem gorącej kawy pitej na stojąco. <br> 
 Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pieczywa na śniadanie, spacer z psem będzie krótszy niż zazwyczaj.<br>
-Poziom zirytowania wzrasta do niebezpiecznych poziomów. <br>
-Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br>
+Poziom zirytowania wzrasta do niebezpiecznych poziomów. Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br>
 
 <figure class="figure">
     <img src="..\assets\images\art-2\sleepy-angry-men.png" class="figure-img img-fluid article_image--container container-glow" alt="">
