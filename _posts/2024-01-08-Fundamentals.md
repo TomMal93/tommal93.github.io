@@ -2,8 +2,8 @@
 title: Podstawy postawy
 tags: [Programowanie, Higiena pracy]
 style: fill
-color: info 
-description: Witajcie - TODO-TM
+color: success 
+description: O tym, że kiedy nie jesteś rozdrażniony wszystko zaczyna się układać.
 ---
 
 <hr>
