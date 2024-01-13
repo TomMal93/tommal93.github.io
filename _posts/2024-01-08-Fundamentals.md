@@ -10,20 +10,22 @@ description:  Koncentracja, stoicyzm i żywienie w służbie programisty.
 
 Który to już raz wstałeś zbyt późno, zaczynając pasmo wiecznych niedoczasów? 
 
-W pośpiechu przebiegasz przez mieszkanie, próbując uporać się z poranną rutyną, a Twoje myśli krążą wyłącznie wokół tego, jak bardzo spóźnisz się do pracy. 
-W tej gorączkowej bieganinie, często pierwszą ofiarą staje się śniadanie, zbyt często zastępowane kubkiem gorącej kawy pitej na stojąco. Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. <br>
-Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pieczywa na śniadanie, spacer z psem będzie krótszy niż zazwyczaj.
+W pośpiechu przebiegasz przez mieszkanie, próbując uporać się z poranną rutyną, a Twoje myśli krążą wyłącznie wokół tego, jak bardzo spóźnisz się do pracy. <br>
+W tej gorączkowej bieganinie, często pierwszą ofiarą staje się śniadanie, zbyt często zastępowane kubkiem gorącej kawy pitej na stojąco. <br> 
+Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. <br>
+Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pieczywa na śniadanie, spacer z psem będzie krótszy niż zazwyczaj.<br>
 Poziom zirytowania wzrasta do niebezpiecznych poziomów.
-Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br> 
+Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br>
+
 Czujesz się zmęczony i rozkojarzony, niezdolny do skupienia uwagi nawet na najłatwiejszych zadaniach. <br>
 Zbliża się 17:00, kończysz dzień pracy i parafrazując - czujesz się w proszku, w rozsypce - wypatroszony rozmontowany, wypalony i śmiertelnie zmęczony chociaż niczego w tym dniu nie dokonałeś.
 
-Chciałbyś odpocząć, a z drugiej strony ambicja nie pozwala Ci “marnować dnia”. 
+Chciałbyś odpocząć, a z drugiej strony ambicja nie pozwala Ci “marnować dnia”. <br>
 Siedzisz do późna w kodzie i … następnego poranka wstajesz zbyt późno - koło się zamyka.
 
 <hr>
 
-Oczywiście jest to przykład nieco przerysowany, natomiast nie musimy spóźniać się do pracy, aby czuć się niewystarczająco do niej przygotowani.
+Oczywiście jest to przykład nieco przerysowany, natomiast nie musisz spóźniać się do pracy, aby czuć się niewystarczająco do niej przygotowany.
 Często wystarczy te 15 minut dłużej w łóżku w towarzystwie przewijanego tiktoka czy mediów społecznościowych, aby rozpocząć festiwal przebodźcowania.
 
 
