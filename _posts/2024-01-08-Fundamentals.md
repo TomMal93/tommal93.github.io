@@ -59,8 +59,8 @@ W kolejnych artykułach przedstawię Ci praktyczne porady, jak pomóc Twojej efe
 
 * Czysty umysł, lepszy kod – praktykowanie higieny psychicznej w pracy programisty.
 * Jak częściej osiągać mityczny stan flow - sekrety koncentracji i kreatywności.
-* Stoicyzm w nowoczesnych technologiach - jak starożytne zasady mogą wesprzeć Twoją karierę w świecie IT.
-* Programuj swoje ciało i umysł: Optymalne żywienie i aktywność fizyczna dla programistów.
+* Stoicyzm w nowoczesnych technologiach - jak starożytne zasady będą wspierać Twoją karierę w świecie IT.
+* Programuj swoje ciało i umysł: optymalne żywienie i aktywność fizyczna dla programistów.
 
 Pamiętaj, że każda drobna zmiana na lepsze to krok w kierunku zdrowszego, szczęśliwszego życia. Nie czekaj na "idealny moment" - zacznij od dziś, a zobaczysz, jak bardzo możesz poprawić swoje życie.
 
