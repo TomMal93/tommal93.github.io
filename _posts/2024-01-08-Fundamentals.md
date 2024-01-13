@@ -3,26 +3,19 @@ title: Podstawy postawy
 tags: [Programowanie, Higiena pracy]
 style: fill
 color: success 
-description: O tym, że kiedy nie jesteś rozdrażniony wszystko zaczyna się układać.
+description:  Koncentracja, stoicyzm i żywienie w służbie programisty.
 ---
 
 <hr>
 
-Podstawy postawy: Koncentracja, stoicyzm i żywienie w służbie programisty
-
 Który to już raz wstałeś zbyt późno, zaczynając pasmo wiecznych niedoczasów? 
 
 W pośpiechu przebiegasz przez mieszkanie, próbując uporać się z poranną rutyną, a Twoje myśli krążą wyłącznie wokół tego, jak bardzo spóźnisz się do pracy. 
-W tej gorączkowej bieganinie, często pierwszą ofiarą staje się śniadanie, zbyt często zastępowane kubkiem gorącej kawy pitej na stojąco. 
-
-Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. 
+W tej gorączkowej bieganinie, często pierwszą ofiarą staje się śniadanie, zbyt często zastępowane kubkiem gorącej kawy pitej na stojąco. Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. <br>
 Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pieczywa na śniadanie, spacer z psem będzie krótszy niż zazwyczaj.
 Poziom zirytowania wzrasta do niebezpiecznych poziomów.
-
-
-Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. 
-Czujesz się zmęczony i rozkojarzony, niezdolny do skupienia uwagi nawet na najłatwiejszych zadaniach.
-
+Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br> 
+Czujesz się zmęczony i rozkojarzony, niezdolny do skupienia uwagi nawet na najłatwiejszych zadaniach. <br>
 Zbliża się 17:00, kończysz dzień pracy i parafrazując - czujesz się w proszku, w rozsypce - wypatroszony rozmontowany, wypalony i śmiertelnie zmęczony chociaż niczego w tym dniu nie dokonałeś.
 
 Chciałbyś odpocząć, a z drugiej strony ambicja nie pozwala Ci “marnować dnia”. 
