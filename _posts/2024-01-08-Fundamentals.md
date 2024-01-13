@@ -1,6 +1,6 @@
 ---
-title: Preludium
-tags: [Programowanie]
+title: Podstawy postawy
+tags: [Programowanie, Higiena pracy]
 style: fill
 color: info 
 description: Witajcie - TODO-TM
