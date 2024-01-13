@@ -17,6 +17,12 @@ Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pi
 Poziom zirytowania wzrasta do niebezpiecznych poziomów.
 Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br>
 
+<figure class="figure">
+    <img src="..\assets\images\art-2\sleepy-angry-men.png" class="figure-img img-fluid article_image--container container-glow" alt="">
+    <figcaption class="figure-caption text-center">To Ty</figcaption>
+</figure>
+<hr>
+
 Czujesz się zmęczony i rozkojarzony, niezdolny do skupienia uwagi nawet na najłatwiejszych zadaniach. <br>
 Zbliża się 17:00, kończysz dzień pracy i parafrazując - czujesz się w proszku, w rozsypce - wypatroszony rozmontowany, wypalony i śmiertelnie zmęczony chociaż niczego w tym dniu nie dokonałeś.
 
@@ -28,14 +34,14 @@ Siedzisz do późna w kodzie i … następnego poranka wstajesz zbyt późno - k
 Oczywiście jest to przykład nieco przerysowany, natomiast nie musisz spóźniać się do pracy, aby czuć się niewystarczająco do niej przygotowany.
 Często wystarczy te 15 minut dłużej w łóżku w towarzystwie przewijanego tiktoka czy mediów społecznościowych, aby rozpocząć festiwal przebodźcowania.
 
+Odpowiedź na powyższe dolegliwości może leżeć w głębszej refleksji nad naszymi codziennymi nawykami. Warto zastanowić się, jak zmiany w naszym podejściu do zarządzania czasem mogą wpłynąć na ogólną jakość życia. 
+
 
 <figure class="figure">
-    <img src="..\assets\images\art-2\sleepy-angry-men.png" class="figure-img img-fluid article_image--container container-glow" alt="">
-    <figcaption class="figure-caption text-center">To Ty</figcaption>
+    <img src="..\assets\images\art-2\thinking-programist.png" class="figure-img img-fluid article_image--container container-glow" alt="">
+    <figcaption class="figure-caption text-center">Mechanizm refleksji u programisty</figcaption>
 </figure>
 <hr>
-
-Odpowiedź na powyższe dolegliwości może leżeć w głębszej refleksji nad naszymi codziennymi nawykami. Warto zastanowić się, jak zmiany w naszym podejściu do zarządzania czasem mogą wpłynąć na ogólną jakość życia. 
 
 Skupienie na jakości snu, zdrowym odżywianiu i regularnej aktywności fizycznej to nie tylko sposób na poprawę kondycji fizycznej, ale także na wzmacnianie odporności psychicznej.
 
