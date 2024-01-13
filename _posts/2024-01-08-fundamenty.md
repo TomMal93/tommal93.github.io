@@ -12,9 +12,8 @@ Który to już raz wstałeś zbyt późno, zaczynając pasmo wiecznych niedoczas
 
 W pośpiechu przebiegasz przez mieszkanie, próbując uporać się z poranną rutyną, a Twoje myśli krążą wyłącznie wokół tego, jak bardzo spóźnisz się do pracy. <br>
 W tej gorączkowej bieganinie, często pierwszą ofiarą staje się śniadanie, zbyt często zastępowane kubkiem gorącej kawy pitej na stojąco. <br> 
-Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. <br>
-Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pieczywa na śniadanie, spacer z psem będzie krótszy niż zazwyczaj.<br>
-Poziom zirytowania wzrasta do niebezpiecznych poziomów.
+Wśród chaosu zapominasz o kluczowych czynnościach, które zaplanowałeś. Pominąłeś dawkę porannych suplementów, domownicy nie dostaną świeżego pieczywa na śniadanie, spacer z psem będzie krótszy niż zazwyczaj.<br>
+Poziom zirytowania wzrasta do niebezpiecznych poziomów. <br>
 Zanim zdążysz się zorientować mija już godzina, a Ty musisz już być w pracy. <br>
 
 <figure class="figure">
