@@ -1,5 +1,5 @@
 ---
-title: Programuj swoje ciało i umysł 
+title: Refactoruj swoje ciało i umysł 
 tags: [Podstawy postawy, Algorytm dobrego samopoczucia]
 style: fill
 color: danger 
