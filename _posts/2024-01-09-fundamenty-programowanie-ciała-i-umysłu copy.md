@@ -1,6 +1,6 @@
 ---
-title: Podstawy postawy - Programuj swoje ciało i umysł 
-tags: [Algorytm dobrego samopoczucia]
+title: Programuj swoje ciało i umysł 
+tags: [Podstawy postawy, Algorytm dobrego samopoczucia]
 style: fill
 color: danger 
 description:  Optymalne żywienie i aktywność fizyczna dla programistów.
