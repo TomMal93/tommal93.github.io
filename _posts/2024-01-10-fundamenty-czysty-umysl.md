@@ -1,9 +1,9 @@
 ---
 title: Czysty umysł, lepszy kod
-tags: [Higiena pracy]
+tags: [Podstawy postawy, Higiena pracy]
 style: fill
 color: info 
-description:  Praktykowanie higieny psychicznej w pracy programisty.
+description: Praktykowanie higieny psychicznej w pracy programisty.
 ---
 
 

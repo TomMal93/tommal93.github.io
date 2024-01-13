@@ -1,6 +1,6 @@
 ---
 title: Podstawy postawy
-tags: [Higiena pracy, Algorytm dobrego samopoczucia, i następne z serii]
+tags: [Podstawy postawy, Higiena pracy, Algorytm dobrego samopoczucia, i następne z serii]
 style: fill
 color: success 
 description:  Koncentracja, stoicyzm i żywienie w służbie programisty.
