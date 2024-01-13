@@ -62,7 +62,8 @@ W kolejnych artykułach przedstawię Ci praktyczne porady, jak pomóc Twojej efe
 * Stoicyzm w nowoczesnych technologiach - jak starożytne zasady będą wspierać Twoją karierę w świecie IT.
 * Programuj swoje ciało i umysł: optymalne żywienie i aktywność fizyczna dla programistów.
 
-Pamiętaj, że każda drobna zmiana na lepsze to krok w kierunku zdrowszego, szczęśliwszego życia. Nie czekaj na "idealny moment" - zacznij od dziś, a zobaczysz, jak bardzo możesz poprawić swoje życie.
+Pamiętaj, że każda drobna zmiana na lepsze to krok w kierunku zdrowszego, szczęśliwszego życia. <br> 
+Nie czekaj na "idealny moment" - zacznij od dziś, a zobaczysz, jak bardzo możesz poprawić swoje życie.
 
 To może być początek Twojej transformacji w kierunku lepszego, bardziej zorganizowanego i skupionego programisty! 
 
