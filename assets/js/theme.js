@@ -15,9 +15,9 @@ function initTheme() {
   if (savedTheme) {
     // Storage theme
     setTheme(savedTheme);
-  } else if (window.matchMedia && window.matchMedia(QUERY_KEY).matches) {
-    // system theme
-    setTheme(themes.DARK);
+  // } else if (window.matchMedia && window.matchMedia(QUERY_KEY).matches) {
+  //   // system theme
+  //   setTheme(themes.DARK);
   } else {
     // Default theme
     setTheme(themes.LIGHT);
