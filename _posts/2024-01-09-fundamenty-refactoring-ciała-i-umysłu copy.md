@@ -15,3 +15,5 @@ W tym artykule przyjrzymy się, jak codzienne wybory żywieniowe, takie jak wiec
 
 Podczas procesu tworzenia tego artykułu części inspiracji dostarczała SI, a mianowicie GPT-4. <br>
 Grafiki zostały wygenerowane przy użyciu DALL-E 3.
+
+{% include footer_post.html %}

@@ -65,5 +65,4 @@ Nie czekaj na "idealny moment" - zacznij od dziś, a zobaczysz, jak bardzo może
 
 To może być początek Twojej transformacji w kierunku lepszego, bardziej zorganizowanego i skupionego programisty! 
 
-Podczas procesu tworzenia tego artykułu części inspiracji dostarczała SI, a mianowicie GPT-4. <br>
-Grafiki zostały wygenerowane przy użyciu DALL-E 3.
+{% include footer_post.html %}
